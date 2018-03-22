@@ -12,7 +12,6 @@ Run `npm run nodemon` to start server
 
 ## App Deployment (Heroku)
 
-`npm run build` for webpack optimized build
 
 `heroku create <YOUR-APP-NAME>`
 
