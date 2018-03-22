@@ -1,16 +1,17 @@
 # Minimal React Expess Setup with Webpack 4
+  Webpack - Express - Babel - React
 
 
+## Goal
+The goal of this project is to help you get started coding with express and react
 
 ## Development
-
-Run
 
 `npm install` 
 
 `npm run dev` for webpack development build
 
-`npm run nodemon` to start server
+`npm run nodemon` to start the server with nodemon
 
 
 
@@ -24,5 +25,5 @@ Run
 `git push heroku master`
 
 
-** MIT **
+* MIT *
 
