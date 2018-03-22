@@ -4,9 +4,13 @@
 
 ## Development
 
-Run `npm run dev` for webpack development build
+Run
 
-Run `npm run nodemon` to start server
+`npm install` 
+
+`npm run dev` for webpack development build
+
+`npm run nodemon` to start server
 
 
 
