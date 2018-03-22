@@ -1,4 +1,4 @@
-# Minimal React Expess Setup
+# Minimal React Expess Setup with Webpack 4
 
 
 
