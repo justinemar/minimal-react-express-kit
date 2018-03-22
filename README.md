@@ -25,5 +25,5 @@ The goal of this project is to help you get started coding with express and reac
 `git push heroku master`
 
 
-* MIT *
+*** MIT ***
 
